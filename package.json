@@ -1,0 +1,13 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "main": "Gruntfile.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bufferhelper": "*",
+    "iconv-lite": "*"
+  }
+}
